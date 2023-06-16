@@ -1,4 +1,4 @@
-# SKGBr
+# SKGBr - (Screen Key Grabber Brasil)
 
 SKGBr é um projeto .NET 4.0 para consolidar diversas funções usadas para interagir com o hardware de um usuário, incluindo:
 	
@@ -9,7 +9,7 @@ SKGBr é um projeto .NET 4.0 para consolidar diversas funções usadas para inte
 
 Para cada função, o SKGBr gravará o arquivo resultante no diretório temporário com o sufixo apropriado.
 
-## Usage
+## Uso
 
 ```
 SKGBr.exe [arguments]
@@ -44,3 +44,8 @@ Exemplos:
     Inicie o ouvinte de palavras-chave (para um conjunto personalizado de strings):
         SKGBr.exe escuta_senhas oil,password,email
 ```
+## Referência e Créditos
+
+Links de autores e conteúdos utilizados como base para o desenvolvimento e estudos
+
+- [djhohnstein](https://github.com/djhohnstein/WireTap)
